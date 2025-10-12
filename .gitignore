@@ -1,0 +1,70 @@
+# MATLAB 檔案
+*.asv
+*.m~
+*.mex*
+*.mat
+*.fig
+*.p
+*.slx.autosave
+*.slxc
+*.slx.original
+slprj/
+*.slxc
+
+# 臨時檔案和系統檔案
+~$*
+*.tmp
+*.temp
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# Microsoft Office 臨時檔案
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+
+# 編譯和輸出檔案
+*.log
+*.aux
+*.synctex.gz
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+
+# IDE 和編輯器檔案
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 作業系統生成的檔案
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 壓縮檔案 (通常不需要版本控制)
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# 個人筆記或草稿檔案
+*_backup.*
+*_old.*
+*_draft.*
+notes.txt
+
+# 忽略 pdf 和 word 和 ppt
+*.pdf
+*.docx
+*.pptx
