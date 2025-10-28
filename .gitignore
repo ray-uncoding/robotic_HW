@@ -68,3 +68,8 @@ notes.txt
 *.pdf
 *.docx
 *.pptx
+
+*.xlsx
+*.doc
+*.ppt
+*.psd
